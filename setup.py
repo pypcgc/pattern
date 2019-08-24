@@ -8,7 +8,7 @@ EMAIL = '{{EMAIL}}'
 AUTHOR = '{{NAME}}'
 REQUIRES_PYTHON = '{{REQUIRES_PYTHON}}'
 VERSION = '{{VERSION}}'
-LICENSE = '{{PROJECT_LICENSE}}'
+LICENSE = '{{LICENSE}}'
 CLASSIFIERS = [
         'Programming Language :: Python'
     ]
