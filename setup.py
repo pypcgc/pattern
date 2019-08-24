@@ -1,11 +1,11 @@
 from setuptools import setup, find_packages
 
 
-NAME = '{{NAME}}'
+NAME = '{{PROJECT}}'
 DESCRIPTION = '{{DESCRIPTION}}'
 URL = '{{URL}}'
 EMAIL = '{{EMAIL}}'
-AUTHOR = '{{AUTHOR}}'
+AUTHOR = '{{NAME}}'
 REQUIRES_PYTHON = '{{REQUIRES_PYTHON}}'
 VERSION = '{{VERSION}}'
 LICENSE = '{{PROJECT_LICENSE}}'
